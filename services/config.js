@@ -39,7 +39,7 @@ module.exports = {
   appUrl: process.env.APP_URL || "<App URL>",
 
   // Preferred port (default to 3000)
-  port: process.env.PORT || 3000,
+  port: process.env.PORT || 5001,
 
   // Optionally set a locale
   locale: process.env.LOCALE,
